@@ -1,5 +1,4 @@
 
-测试各种编程语言运行Fibonacci36所需的执行时间来衡量编程语言函数调用效率，其中Fibonacci函数要采用如下形式实现：
 fib(n){
 	if(n<2)
 		return 1;
